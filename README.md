@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Ting0-0.
-- 👀 I’m interested in Operation Reasearch.
-- 🌱 I’m currently learning OpenTCS.
+- 👋 Hi, I’m @Ting0-0, a software engineer working in Taiwan.
+- 👀 I’m now trying to deal with issues of our IM_project.
 <!---
+- 🌱 I have learned OpenTCS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
