@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Ting0-0, a software engineer working in Taiwan.
-- 👀 I’m now trying to deal with issues of our IM_project.
+- Hi, I’m @Ting0-0, a software engineer from Taiwan.
+- Language: Python, C++, Java
 <!---
 - 🌱 I have learned OpenTCS.
 - 💞️ I’m looking to collaborate on ...
